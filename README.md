@@ -1,8 +1,8 @@
 >Hi, it's Nihil.<br />
 
-<img src='https://github.com/Nihilnia/Nihilnia/blob/main/Gloria.gif'/>
+<img src='https://github.com/Nihilnia/Nihilnia/blob/main/Gloria.gif' width = '584px'/>
 
-<table>
+<table width = '800px'>
 <tr><th colspan="5">Languages/ tools/ libraries/ softwares I am familiar with</th></tr>
     <tr>
         <td>
@@ -33,7 +33,7 @@
 </td>
 <td>
 
-![Adobe Creative Cloud](https://raw.githubusercontent.com/Nihilnia/GithubBadges/b2ac1e796a04c427901fb09f6757687e6d2ffd88/AdobeCreativeCloud.svg)<br/>
+![Adobe CC](https://raw.githubusercontent.com/Nihilnia/GithubBadges/8c0631ce8c05a7f3c4a62eb2b2675fc46d3b46c6/AdobeCC.svg)<br/>
 ![After Effects](https://raw.githubusercontent.com/Nihilnia/GithubBadges/c5748573412e061604ae5f037ad9ddfce5235914/AfterEffects.svg)<br/>
 ![Photoshop](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/Photoshop.svg)<br/>
 ![Premiere Pro](https://raw.githubusercontent.com/Nihilnia/GithubBadges/c5748573412e061604ae5f037ad9ddfce5235914/PremierePro.svg)<br/>
