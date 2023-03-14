@@ -9,10 +9,10 @@ Hi, it's Nihil.<br />
 
 ![CSharp](https://raw.githubusercontent.com/Nihilnia/GithubBadges/a2bf391157966a0a5a718101ed62aa7f6f48acd5/CSharp.svg)<br/>
 ![Python](https://raw.githubusercontent.com/Nihilnia/GithubBadges/a2bf391157966a0a5a718101ed62aa7f6f48acd5/Python.svg)<br/>
+![JavaScript](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/JavaScript.svg)<br/>
 ![HTML](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/HTML.svg)<br/>
 ![CSS](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/CSS.svg)<br/>
 ![Sass](https://raw.githubusercontent.com/Nihilnia/GithubBadges/cd9e77d1faef16d363ec97d1b7477b7931073a66/Sass.svg)<br/>
-![JavaScript](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/JavaScript.svg)<br/>
 ![JQuery](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/JQuery.svg)<br/>
 ![SQL Server](https://raw.githubusercontent.com/Nihilnia/GithubBadges/dbbc818e235cd84a0e8ac999318bce560373a740/SQLServer.svg)<br/>
 ![MySQL](https://raw.githubusercontent.com/Nihilnia/GithubBadges/064a040e8ef1efb98c5d92723a8a40be9d22eb0c/MySQL.svg)<br/>
