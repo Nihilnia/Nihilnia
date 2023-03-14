@@ -2,11 +2,11 @@ Hi, it's Nihil.<br />
 I want to understand computers, talk with them. I want to get lose in algorithms, code lines. I want to be with that
 beautiful things..
     
-<img src='https://github.com/Nihilnia/Nihilnia/blob/main/Gloria.gif'/>
+<img src='https://github.com/Nihilnia/Nihilnia/blob/main/Gloria.gif' width = '584px'/>
     
 
 <table>
-<tr><th colspan="3">Languages/ tools/ libraries/ softwares I am familiar with</th></tr>
+<tr><th colspan="5">Languages/ tools/ libraries/ softwares I am familiar with</th></tr>
     <tr>
         <td>
 
@@ -35,6 +35,8 @@ beautiful things..
 ![After Effects](https://raw.githubusercontent.com/Nihilnia/GithubBadges/c5748573412e061604ae5f037ad9ddfce5235914/AfterEffects.svg)<br/>
 ![Photoshop](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/Photoshop.svg)<br/>
 ![Premiere Pro](https://raw.githubusercontent.com/Nihilnia/GithubBadges/c5748573412e061604ae5f037ad9ddfce5235914/PremierePro.svg)<br/>
+</td>
+<td>
 
 ![Steam](https://raw.githubusercontent.com/Nihilnia/GithubBadges/a2bf391157966a0a5a718101ed62aa7f6f48acd5/Steam.svg)<br/>
 ![Origin](https://raw.githubusercontent.com/Nihilnia/GithubBadges/7e801691de6f110be6297aa47375a65ada0f7343/Origin.svg)<br/>
@@ -47,7 +49,6 @@ beautiful things..
 ![Discord](https://raw.githubusercontent.com/Nihilnia/GithubBadges/a2bf391157966a0a5a718101ed62aa7f6f48acd5/Discord.svg)<br/>
 ![Spotify](https://raw.githubusercontent.com/Nihilnia/GithubBadges/a2bf391157966a0a5a718101ed62aa7f6f48acd5/Spotify.svg)<br/>
 ![OBS Studio](https://raw.githubusercontent.com/Nihilnia/GithubBadges/7e801691de6f110be6297aa47375a65ada0f7343/OBSStudio.svg)<br/>
-        </td>
         </td>
     </tr>
 </table>
