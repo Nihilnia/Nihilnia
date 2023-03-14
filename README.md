@@ -1,6 +1,4 @@
 Hi, it's Nihil.<br />
-I want to understand computers, talk with them. I want to get lose in algorithms, code lines. I want to be with that
-beautiful things..
     
 <img src='https://github.com/Nihilnia/Nihilnia/blob/main/Gloria.gif' width = '584px'/>
     
