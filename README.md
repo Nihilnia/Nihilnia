@@ -1,7 +1,6 @@
 Hi, it's Nihil.<br />
-    
+
 <img src='https://github.com/Nihilnia/Nihilnia/blob/main/Gloria.gif' width = '584px'/>
-    
 
 <table>
 <tr><th colspan="5">Languages/ tools/ libraries/ softwares I am familiar with</th></tr>
