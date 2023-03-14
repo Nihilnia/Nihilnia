@@ -14,6 +14,8 @@ Hi, it's Nihil.<br />
 ![Sass](https://raw.githubusercontent.com/Nihilnia/GithubBadges/cd9e77d1faef16d363ec97d1b7477b7931073a66/Sass.svg)<br/>
 ![JavaScript](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/JavaScript.svg)<br/>
 ![JQuery](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/JQuery.svg)<br/>
+![Microsoft Server](https://raw.githubusercontent.com/Nihilnia/GithubBadges/064a040e8ef1efb98c5d92723a8a40be9d22eb0c/MicrosoftServer.svg)<br/>
+![MySQL](https://raw.githubusercontent.com/Nihilnia/GithubBadges/064a040e8ef1efb98c5d92723a8a40be9d22eb0c/MySQL.svg)<br/>
 
 ![Bootstrap](https://raw.githubusercontent.com/Nihilnia/GithubBadges/0b7f184049c916a280364eef477d4acbdebbb68b/Bootstrap.svg)<br/>
 ![Font Awesome](https://raw.githubusercontent.com/Nihilnia/GithubBadges/0b7f184049c916a280364eef477d4acbdebbb68b/FontAwesome.svg)<br/>
