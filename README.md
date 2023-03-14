@@ -20,6 +20,10 @@ beautiful things..
 ![Bootstrap](https://raw.githubusercontent.com/Nihilnia/GithubBadges/0b7f184049c916a280364eef477d4acbdebbb68b/Bootstrap.svg)<br/>
 ![Font Awesome](https://raw.githubusercontent.com/Nihilnia/GithubBadges/0b7f184049c916a280364eef477d4acbdebbb68b/FontAwesome.svg)<br/>
 
+
+</td>
+<td>
+
 ![VisualStudio](https://raw.githubusercontent.com/Nihilnia/GithubBadges/a2bf391157966a0a5a718101ed62aa7f6f48acd5/VisualStudio.svg)<br/>
 ![Visual Studio Code](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e9692944c51f668445da9f0cfba33112102a3484/VSCode.svg)<br/>
 ![Github](https://raw.githubusercontent.com/Nihilnia/GithubBadges/7e801691de6f110be6297aa47375a65ada0f7343/Github.svg)<br/>
